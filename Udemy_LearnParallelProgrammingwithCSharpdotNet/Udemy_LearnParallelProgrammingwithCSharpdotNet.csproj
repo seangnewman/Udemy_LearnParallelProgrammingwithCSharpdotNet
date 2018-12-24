@@ -207,6 +207,7 @@
     <Compile Include="BankAccount.cs" />
     <Compile Include="ConcurrentCollections.cs" />
     <Compile Include="DataSharingAndSynchronization.cs" />
+    <Compile Include="ParallelLinq.cs" />
     <Compile Include="ParallelLoops.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Udemy_LearnParallelProgrammingwithCSharpdotNet", "Udemy_LearnParallelProgrammingwithCSharpdotNet\Udemy_LearnParallelProgrammingwithCSharpdotNet.csproj", "{663B7564-4888-4480-B4EC-B3FD34D116C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAndAwaitDemo", "AsyncAndAwaitDemo\AsyncAndAwaitDemo.csproj", "{7F85557D-1400-49E1-9953-33533F740AE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{663B7564-4888-4480-B4EC-B3FD34D116C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{663B7564-4888-4480-B4EC-B3FD34D116C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{663B7564-4888-4480-B4EC-B3FD34D116C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F85557D-1400-49E1-9953-33533F740AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F85557D-1400-49E1-9953-33533F740AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F85557D-1400-49E1-9953-33533F740AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F85557D-1400-49E1-9953-33533F740AE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

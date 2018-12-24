@@ -14,8 +14,14 @@ namespace Udemy_LearnParallelProgrammingwithCSharpdotNet
        
         static void Main(string[] args)
         {
-         
+            //BenchmarkDemo();
+            
+        }
 
+
+
+        private static void BenchmarkDemo()
+        {
             var summary = BenchmarkRunner.Run<Program>();
             Console.WriteLine(summary);
         }
